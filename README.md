@@ -1,8 +1,9 @@
-# _bperf_: Bayesian Performance Comparison
+# **bperf**: Bayesian Performance Comparison
 
 # Papers
 
-A Bayesian Hierarchical Model for Comparing Average F1 Scores (Supplement)
+- Bayesian Performance Comparison of Classifiers
+- A Bayesian Hierarchical Model for Comparing Average F1 Scores
 
 # Code
 
